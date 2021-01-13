@@ -8,6 +8,7 @@
 ### ABOUT
 
 - 🔭 I’m currently working on my Front end skills on Frontend Mentor
+- 👨‍💻 Have a look at one of my works at [https://portfolio.ashusharma-cs.vercel.app/](https://portfolio.ashusharma-cs.vercel.app/)
 - 🌱 I’m currently learning ReactJs
 - :raised_hands: I’m looking to collaborate on web designing projects
 - 💬 Ask me about anything, will be happy to answer!
