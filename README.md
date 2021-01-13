@@ -12,7 +12,7 @@
 - 💬 Ask me about anything, will be happy to answer!
 - 📫 How to reach me: [Instagram](www.instagram.com/drizzerr_)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm awesome
+- ⚡ Fun fact: People call me intellectual :wink:
 
 ### Talk with me, I am kinda awesome:
 
