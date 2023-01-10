@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning ReactJs
 - :raised_hands: I’m looking to collaborate on web designing projects
 - 💬 Ask me about anything, will be happy to answer!
-- 📫 How to reach me: **ashu.lucifer@gmail.com**
+- 📫 How to reach me: **ashusharma20.a@gmail.com**
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: People call me intellectual :wink:
 
