@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on my Front end skills on Frontend Mentor
 - 👨‍💻 My portfolio [https://personal-website-5h0ul6cj7-ashusharma-cs.vercel.app/](https://personal-website-5h0ul6cj7-ashusharma-cs.vercel.app/)
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning Angular
 - :raised_hands: I’m looking to collaborate on web designing projects
 - 💬 Ask me about anything, will be happy to answer!
 - 📫 How to reach me: **ashusharma20.a@gmail.com**
