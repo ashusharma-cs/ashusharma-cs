@@ -11,7 +11,7 @@ Software Engineer | C++ & DSA Enthusiast
 
 - 🚀 Focused on building high-performance applications and mastering algorithmic complexity.
 
-- 🛠️ Current Stack: C++, Python, Linux, Git.
+- 🛠️ C++ Ecosystem: Modern C++ (17/20), STL (Standard Template Library), Memory Management
 
 - 🔭 Deep-diving into System Design and Advanced Data Structures.
 
